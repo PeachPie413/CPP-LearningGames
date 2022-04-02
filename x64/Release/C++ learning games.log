@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\funon\Desktop\C++ projects\C++ learning games\main.cpp(52,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\funon\Desktop\C++ projects\C++ learning games\main.cpp(52,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  13 of 31 functions (41.9%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  C++ learning games.vcxproj -> C:\Users\funon\Desktop\C++ projects\C++ learning games\x64\Release\C++ learning games.exe
