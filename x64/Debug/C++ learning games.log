@@ -1,12 +1,2 @@
-﻿  main.cpp
-C:\Users\funon\Desktop\C++ projects\C++ learning games\main.cpp(53,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-C:\Users\funon\Desktop\C++ projects\C++ learning games\main.cpp(53,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-  C++ learning games.vcxproj -> C:\Users\funon\Desktop\C++ projects\C++ learning games\x64\Debug\C++ learning games.exe
+﻿  Snake.cpp
+  C++ learning games.vcxproj -> C:\Users\funon\Desktop\C++ projects\C++ learning games\CPP-LearningGames\x64\Debug\C++ learning games.exe
